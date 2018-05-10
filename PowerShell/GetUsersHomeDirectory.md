@@ -2,4 +2,4 @@
 
 ```powershell
 Get-ADUser -LDAPFilter "(sAMAccountName=username)" -Properties homeDirectory | Select-Object -ExpandProperty homeDirectory
-``
+```
