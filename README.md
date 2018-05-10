@@ -18,3 +18,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 ### Ruby
 
 - [Create Thumbnail Image For A PDF](ruby/create-thumbnail-image-for-a-pdf.md)
+
+### VSCode
+
+- [Open An Integrated Terminal Window](vscode/open-an-integrated-terminal-window.md)
