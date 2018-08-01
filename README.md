@@ -15,6 +15,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 ### PowerShell
 
 - [Get A Remote Users Home Directory](PowerShell/GetUsersHomeDirectory.md)
+- [Unblock Downloaded Powershell Files](Powershell/UnblockDownloadedPSFiles.md)
 
 ### Ruby
 
