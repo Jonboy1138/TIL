@@ -17,6 +17,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Get A Remote Users Home Directory](PowerShell/GetUsersHomeDirectory.md)
 - [Unblock Downloaded Powershell Files](Powershell/UnblockDownloadedPSFiles.md)
 - [Get The Serial Number From A Remote Machine](PowerShell/GetRemoteSerial.md)
+- [Get AD Group Members](Powershell/GetADGroupMembers.md)
 
 ### Ruby
 
