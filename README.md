@@ -7,6 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 ### Categories
 
 * [PowerShell](#powershell)
+* [Python](#python)
 * [Ruby](#ruby)
 * [VSCode](#vscode)
 
@@ -18,6 +19,9 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Unblock Downloaded Powershell Files](Powershell/UnblockDownloadedPSFiles.md)
 - [Get The Serial Number From A Remote Machine](PowerShell/GetRemoteSerial.md)
 - [Get AD Group Members](Powershell/GetADGroupMembers.md)
+
+### Python
+- [Get The Position of The Mouse](python/mouseNow.md)
 
 ### Ruby
 
