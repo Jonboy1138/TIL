@@ -20,6 +20,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Get The Serial Number From A Remote Machine](PowerShell/GetRemoteSerial.md)
 - [Get AD Group Members](PowerShell/GetADGroupMembers.md)
 - [Get Stale Computers](PowerShell/GetStaleComputers.md)
+- [Get A List of Subfolders One Level Deep](PowerShell/GetListOfFoldersOneLevelDeep.md)
 
 ### Python
 - [Get The Position of The Mouse](python/mouseNow.md)
