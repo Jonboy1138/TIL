@@ -9,6 +9,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 * [PowerShell](#powershell)
 * [Python](#python)
 * [Ruby](#ruby)
+* [ServiceNow](#servicenow)
 * [VSCode](#vscode)
 
 ---
