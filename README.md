@@ -29,6 +29,8 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 - [Create Thumbnail Image For A PDF](ruby/create-thumbnail-image-for-a-pdf.md)
 
+### ServiceNow
+
 ### VSCode
 
 - [Open An Integrated Terminal Window](vscode/open-an-integrated-terminal-window.md)
